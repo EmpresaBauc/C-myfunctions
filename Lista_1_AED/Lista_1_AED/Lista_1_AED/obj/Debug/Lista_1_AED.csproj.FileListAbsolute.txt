@@ -1,0 +1,6 @@
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED\Lista_1_AED\bin\Debug\Lista_1_AED.exe.config
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED\Lista_1_AED\bin\Debug\Lista_1_AED.exe
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED\Lista_1_AED\bin\Debug\Lista_1_AED.pdb
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED\Lista_1_AED\obj\Debug\Lista_1_AED.csproj.CoreCompileInputs.cache
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED\Lista_1_AED\obj\Debug\Lista_1_AED.exe
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED\Lista_1_AED\obj\Debug\Lista_1_AED.pdb

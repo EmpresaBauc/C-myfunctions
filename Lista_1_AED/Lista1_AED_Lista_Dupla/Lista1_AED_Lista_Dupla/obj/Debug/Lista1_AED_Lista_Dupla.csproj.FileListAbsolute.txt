@@ -1,0 +1,6 @@
+C:\Users\CESAR AUGUSTO\source\repos\Lista1_AED_Lista_Dupla\Lista1_AED_Lista_Dupla\bin\Debug\Lista1_AED_Lista_Dupla.exe.config
+C:\Users\CESAR AUGUSTO\source\repos\Lista1_AED_Lista_Dupla\Lista1_AED_Lista_Dupla\bin\Debug\Lista1_AED_Lista_Dupla.exe
+C:\Users\CESAR AUGUSTO\source\repos\Lista1_AED_Lista_Dupla\Lista1_AED_Lista_Dupla\bin\Debug\Lista1_AED_Lista_Dupla.pdb
+C:\Users\CESAR AUGUSTO\source\repos\Lista1_AED_Lista_Dupla\Lista1_AED_Lista_Dupla\obj\Debug\Lista1_AED_Lista_Dupla.csproj.CoreCompileInputs.cache
+C:\Users\CESAR AUGUSTO\source\repos\Lista1_AED_Lista_Dupla\Lista1_AED_Lista_Dupla\obj\Debug\Lista1_AED_Lista_Dupla.exe
+C:\Users\CESAR AUGUSTO\source\repos\Lista1_AED_Lista_Dupla\Lista1_AED_Lista_Dupla\obj\Debug\Lista1_AED_Lista_Dupla.pdb

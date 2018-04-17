@@ -1,0 +1,7 @@
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED_Pilha\Lista_1_AED_Pilha\bin\Debug\Lista_1_AED_Pilha.exe.config
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED_Pilha\Lista_1_AED_Pilha\bin\Debug\Lista_1_AED_Pilha.exe
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED_Pilha\Lista_1_AED_Pilha\bin\Debug\Lista_1_AED_Pilha.pdb
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED_Pilha\Lista_1_AED_Pilha\obj\Debug\Lista_1_AED_Pilha.csprojResolveAssemblyReference.cache
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED_Pilha\Lista_1_AED_Pilha\obj\Debug\Lista_1_AED_Pilha.csproj.CoreCompileInputs.cache
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED_Pilha\Lista_1_AED_Pilha\obj\Debug\Lista_1_AED_Pilha.exe
+C:\Users\CESAR AUGUSTO\source\repos\Lista_1_AED_Pilha\Lista_1_AED_Pilha\obj\Debug\Lista_1_AED_Pilha.pdb
