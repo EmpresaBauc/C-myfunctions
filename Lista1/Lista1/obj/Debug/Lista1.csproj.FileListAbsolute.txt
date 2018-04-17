@@ -1,0 +1,6 @@
+c:\users\lucas\documents\visual studio 2015\Projects\Lista1\Lista1\bin\Debug\Lista1.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\Lista1\Lista1\bin\Debug\Lista1.exe
+c:\users\lucas\documents\visual studio 2015\Projects\Lista1\Lista1\bin\Debug\Lista1.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\Lista1\Lista1\obj\Debug\Lista1.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2015\Projects\Lista1\Lista1\obj\Debug\Lista1.exe
+c:\users\lucas\documents\visual studio 2015\Projects\Lista1\Lista1\obj\Debug\Lista1.pdb
